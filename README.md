@@ -1,4 +1,4 @@
 # PPT-Pointer-Mouse-App
 
 
-AndroidStudio, TizenStudio, Eclipse, JAVA, C
+AndroidStudio, Eclipse, JAVA
