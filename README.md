@@ -8,8 +8,9 @@
 
 - 서버 통신 과정
 
+<img width="300" height="200" alt="스크린샷 2022-11-11 오후 1 44 38" src="https://user-images.githubusercontent.com/26247241/201265125-d49e4e45-0237-43a6-ad0f-0f34379dc322.png">
 
-<img width="400" height="200" alt="캡처1" src="https://user-images.githubusercontent.com/26247241/201264081-a02c0b89-f6b3-450f-b00d-ab732816e91f.PNG"> <img width="400" height="200" alt="캡처3" src="https://user-images.githubusercontent.com/26247241/201264085-4afb6da7-2594-46f9-bce2-269927ead635.PNG">
+<img width="300" height="200" alt="스크린샷 2022-11-11 오후 1 44 58" src="https://user-images.githubusercontent.com/26247241/201265138-be361a51-afb1-4b2a-8b08-8671e2c077c9.png">
 
 
 - 화면 전환 과정
