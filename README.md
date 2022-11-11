@@ -21,6 +21,6 @@
 
 > tech : AndroidStudio, Eclipse, JAVA
 
-> functions :
+> functions : UI (스마트폰), MotionEvent API 기능 (움직임, 좌클릭, 우클릭), Socket API 기능 (CS 통신)
 
-> contents :
+> contents : 데스크톱 PC의 마우스를 대체할 수 있는 무선 통신 마우스 기능 구현
